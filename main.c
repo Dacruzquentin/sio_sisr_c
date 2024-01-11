@@ -38,7 +38,7 @@ int main()
 	int resultat = -1;
 	printf("%d\n", resultat);
 	resultat = greater(num1, num2);
-	printf("resultat = %i / greater = %d \n ", greater(4,5));
+	printf("resultat = %i / grater = %d \n",resultat,  greater(4,5));
 
  return 0;
 
